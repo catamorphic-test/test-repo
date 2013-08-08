@@ -8,4 +8,4 @@ var x = "what the deuce?";
 
 
 
-return 42;
+return "x";
