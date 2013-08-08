@@ -5,4 +5,12 @@ function foo(x,y) {
 
 var x = "what the deuce?";
 
-return 42;
+
+
+
+return "x";
+
+throw
+
+
+"x";
