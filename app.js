@@ -9,3 +9,8 @@ var x = "what the deuce?";
 
 
 return "x";
+
+throw
+
+
+"x";
