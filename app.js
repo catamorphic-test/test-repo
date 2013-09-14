@@ -3,14 +3,25 @@ function foo(x,y) {
 }
 
 
+
+
+
 var x = "what the deuce?";
 
 
 
 
-return "x";
+
+
+
+
+return "y";
 
 throw
 
 
 "x";
+
+function foo ( x,y ) {
+  return 4;
+};
