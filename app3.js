@@ -13,3 +13,11 @@ var z = function(a,b) {
 var xx = function ( x,y ) {
   return 3;
 };
+
+var zz = function ( x, y ) {
+  return 4;
+};
+
+var xz = function (x,y) {
+  return 4;
+};
