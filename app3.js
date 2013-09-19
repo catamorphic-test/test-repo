@@ -21,3 +21,11 @@ var zz = function ( x, y ) {
 var xz = function (x,y) {
   return 4;
 };
+
+var zzz = function ( x, y ) {
+  return 4;
+};
+
+var xzz = function (x,y) {
+  return 4;
+};
