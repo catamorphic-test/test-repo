@@ -10,10 +10,14 @@ var yy = function (x,y) {
   return 3;
 };
 
-var yy = function (x,y) {
+var yyy = function (x,y) {
   return 3;
 };
 
-var yy = function (x,y) {
+var yyyy = function (x,y) {
+  return 3;
+};
+
+var yyyyy = function ( x,y ) {
   return 3;
 };
