@@ -5,3 +5,15 @@ var x = function ( x,y ) {
 var y = function ( x,y ) {
   return 3;
 };
+
+var yy = function (x,y) {
+  return 3;
+};
+
+var yy = function (x,y) {
+  return 3;
+};
+
+var yy = function (x,y) {
+  return 3;
+};
